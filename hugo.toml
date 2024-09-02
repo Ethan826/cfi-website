@@ -2,3 +2,5 @@ baseURL = 'https://raleighflightinstructor.org/'
 languageCode = 'en-us'
 title = 'Ethan Kent, Flight Instructor'
 theme = 'ananke'
+sectionPagesMenu = 'main'
+

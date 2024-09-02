@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ethan Kent, Flight Instructor</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Ethan Kent, Flight Instructor</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Aug 2024 23:09:09 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will an instrument rating make me safer?</title>
+      <link>http://localhost:1313/posts/safer-with-instrument/</link>
+      <pubDate>Sat, 31 Aug 2024 23:09:09 -0400</pubDate>
+      <guid>http://localhost:1313/posts/safer-with-instrument/</guid>
+      <description>I had a conversation with a friend from my previous job, recently certified as a private pilot. The friend is contemplating an instrument rating. I don&amp;rsquo;t remember if we explicitly framed the question, &amp;ldquo;Will an instrument rating make me safer,&amp;rdquo; but that was definitely part of our discussion.&#xA;The obvious answer is, &amp;ldquo;Yes, of course!&amp;rdquo; The disappointing trend continues of non-instrument-rated pilots coming to grief by flying under Visual Flight Rules (VFR) into Instrument Meteorological Conditions (IMC).</description>
+    </item>
+  </channel>
+</rss>

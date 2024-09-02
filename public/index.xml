@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ethan Kent, Flight Instructor</title>
+    <title>Home on Ethan Kent, Flight Instructor</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Ethan Kent, Flight Instructor</description>
+    <description>Recent content in Home on Ethan Kent, Flight Instructor</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 31 Aug 2024 23:09:09 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will an instrument rating make me safer?</title>
+      <link>http://localhost:1313/posts/safer-with-instrument/</link>
+      <pubDate>Sat, 31 Aug 2024 23:09:09 -0400</pubDate>
+      <guid>http://localhost:1313/posts/safer-with-instrument/</guid>
+      <description>I had a conversation with a friend from my previous job, recently certified as a private pilot. The friend is contemplating an instrument rating. I don&amp;rsquo;t remember if we explicitly framed the question, &amp;ldquo;Will an instrument rating make me safer,&amp;rdquo; but that was definitely part of our discussion.&#xA;The obvious answer is, &amp;ldquo;Yes, of course!&amp;rdquo; The disappointing trend continues of non-instrument-rated pilots coming to grief by flying under Visual Flight Rules (VFR) into Instrument Meteorological Conditions (IMC).</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Welcome to my website! I’m Ethan Kent, a flight instructor and an honors graduate of Embry-Riddle Aeronautical University with over 1000 hours of instruction given and experience as an Assistant Chief Instructor at a large flight school in San Diego. I’ve trained pilots from the student pilot to flight instructor level.&#xA;I enjoy part-time instructing as a way to share my enthusiasm for aviation with other pilots and aspiring pilots in the Triangle.</description>
+    </item>
+    <item>
+      <title>Raleigh Flying Club</title>
+      <link>http://localhost:1313/rfc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rfc/</guid>
+      <description>Raleigh Flying Club, where I instruct, is convenient to communities throughout the North Carolina Triangle region. The club is a great choice for both budding and seasoned pilots. Based at Raleigh-Durham International Airport (RDU), the club not only provides an array of aircraft from basic trainers to advanced models but also fosters a close-knit community atmosphere where aviation enthusiasts can thrive.&#xA;What Makes Raleigh Flying Club Special? Community and Flexibility: Raleigh Flying Club is not just about flying; it’s a community of aviation enthusiasts.</description>
+    </item>
+    <item>
+      <title>RDU Airport</title>
+      <link>http://localhost:1313/rdu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rdu/</guid>
+      <description>Raleigh Flying Club, where I instruct, is located at Raleigh-Durham International Airport.&#xA;Why RDU? Here are some advantages to training at RDU:&#xA;Location: The club’s central location is convenient to Apex, Cary, Raleigh, Durham, Chapel Hill, and other communities in the Triangle. Confidence: Learning to fly at a busy, tower-controlled airport like RDU can be a significant confidence booster. While less busy fields offer efficiency, training in a bustling environment equips you with the skills to handle complex airspaces.</description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>http://localhost:1313/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/training/</guid>
+      <description>I am proud to provide the following training and services:&#xA;Discovery Flights: A perfect introduction to flying, this first lesson includes a pre-flight briefing, hands-on flying experience, and post-flight debriefing. It’s an ideal way to decide if pursuing a pilot’s certificate is right for you. Club Checkouts: I can perform club checkouts for any of the basic membership airplanes: the Cherokee 180 and Warriors. Private Pilot: While earning your “private ticket,” you’ll cover aerodynamics, navigation, weather, regulations, decision-making, and the procedures and maneuvers you’ll need to fly alone or with passengers in good weather.</description>
+    </item>
   </channel>
 </rss>
