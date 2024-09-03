@@ -1,7 +1,7 @@
 +++
 title = 'Aeronautical Decision Making as a trainable skill'
 date = 2024-09-02T16:34:36-04:00
-draft = true
+draft = false
 +++
 
 The first time I heard the
