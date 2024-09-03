@@ -31,16 +31,9 @@ community atmosphere where aviation enthusiasts can thrive.
   the premium membership to access more capable airplane (Bonazas and the
   Cherokee 6).
 
-For more information or to schedule a session, please contact me at
+Information about joining the club is
+[here](https://www.raleighflyingclub.org/contact/). You can reach me at
 <contact@raleighflightinstructor.com>.
-
-# Become a Part of Our Community
-
-[Joining](https://www.raleighflyingclub.org/contact/) Raleigh Flying Club is
-your first step towards a rewarding journey in the skies. Experience the thrill
-of flight, the joy of learning, and the warmth of friendship within our club.
-Whether you’re pursuing a career in aviation or seeking an exhilarating hobby,
-you’ll find a supportive and engaging community with us.
 
 # Our other great CFIs
 
@@ -58,7 +51,7 @@ needs, but you can’t go wrong with any of the great instructors at the club:
 - [Philip Geiger](https://www.linkedin.com/in/philipgeigercfp/), CFII,
   part-time, qualified in all club airplanes.
 - [Steven Killoran](mailto:srkilloran429@gmail.com), CFI, full-time, qualified
-  in all club airplanes.
+  in all basic membership airplanes.
 
 # An in-the-weeds note on rates
 
