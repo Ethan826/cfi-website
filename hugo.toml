@@ -3,4 +3,5 @@ languageCode = 'en-us'
 title = 'Ethan Kent, Flight Instructor'
 theme = 'ananke'
 sectionPagesMenu = 'main'
+enableRobotsTxt = true
 
