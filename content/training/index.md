@@ -24,7 +24,7 @@ I am proud to provide the following training and services:
   to more complex flying environments. Consequently, we will strongly emphasize
   Aeronautical Decision Making (ADM) and setting personal minimums to ensure
   safety and proficiency in instrument meteorological conditions (IMC).
-- **CFII (Certified Flight Instrument Instructor):** This advanced certification
+- **CFII (Certified Flight Instructor–Instrument):** This advanced certification
   allows you to teach instrument flying, building on your foundational skills to
   teach instrument flying to certificated pilots. It particularly emphasizes
   developing your ability to instruct students on understanding the *why*s of
