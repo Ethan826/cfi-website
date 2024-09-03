@@ -5,7 +5,7 @@ menus: main
 ---
 
 Welcome to my website! I’m Ethan Kent, a flight instructor and an honors
-graduate of Embry-Riddle Aeronautical University with over 1000 hours of
+graduate of Embry-Riddle Aeronautical University with over 1,000 hours of
 instruction given and experience as an Assistant Chief Instructor at a large
 flight school in San Diego. I’ve trained pilots from the student pilot to flight
 instructor level.
