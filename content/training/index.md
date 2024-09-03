@@ -24,16 +24,6 @@ I am proud to provide the following training and services:
   to more complex flying environments. Consequently, we will strongly emphasize
   Aeronautical Decision Making (ADM) and setting personal minimums to ensure
   safety and proficiency in instrument meteorological conditions (IMC).
-- **Commercial Pilot:** To prepare you for a professional flying
-  career, this training sharpens your flying skills to a higher standard of
-  precision and professionalism. You’ll gain experience in more complex aircraft
-  and learn about commercial flight regulations.
-- **CFI Initial:** Aspiring flight instructors will develop the skills to train
-  safe pilots. We’ll cover instructional techniques, lesson planning, and
-  student evaluation methods. A significant focus of this course is on
-  instilling a strong safety culture and decision-making skills in students,
-  ensuring they not only master technical skills but also become prudent,
-  responsible pilots.
 - **CFII (Certified Flight Instrument Instructor):** This advanced certification
   allows you to teach instrument flying, building on your foundational skills to
   teach instrument flying to certificated pilots. It particularly emphasizes
@@ -55,3 +45,14 @@ bet.
 
 For more information or to schedule a lesson, feel free to contact me at
 <contact@raleighflightinstructor.com>.
+
+<!-- - **Commercial Pilot:** To prepare you for a professional flying
+  career, this training sharpens your flying skills to a higher standard of
+  precision and professionalism. You’ll gain experience in more complex aircraft
+  and learn about commercial flight regulations.
+- **CFI Initial:** Aspiring flight instructors will develop the skills to train
+  safe pilots. We’ll cover instructional techniques, lesson planning, and
+  student evaluation methods. A significant focus of this course is on
+  instilling a strong safety culture and decision-making skills in students,
+  ensuring they not only master technical skills but also become prudent,
+  responsible pilots. -->

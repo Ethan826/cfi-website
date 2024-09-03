@@ -1,6 +1,6 @@
 baseURL = 'https://raleighflightinstructor.org/'
 languageCode = 'en-us'
-title = 'Ethan Kent, Flight Instructor'
+title = 'Ethan Kent, Gold Seal CFI, CFII, MEI'
 theme = 'ananke'
 sectionPagesMenu = 'main'
 enableRobotsTxt = true
