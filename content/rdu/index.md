@@ -28,6 +28,8 @@ Here are some advantages to training at RDU:
 # Resources
 
 - [Weather](https://aviationweather.gov/data/metar/?id=KRDU&hours=0&decoded=yes&include_taf=yes)
-- [Airport diagram](<https://aeronav.faa.gov/d-tpp/2408/00516ad.pdf#nameddest=(RDU)>)
-- [Sectional Chart](https://skyvector.com/?ll=35.877638889,-78.787472222&chart=301&zoom=1)
+- [Airport
+  diagram](<https://aeronav.faa.gov/d-tpp/2408/00516ad.pdf#nameddest=(RDU)>)
+- [Sectional
+  Chart](https://skyvector.com/?ll=35.877638889,-78.787472222&chart=301&zoom=1)
 - [Directions](https://maps.app.goo.gl/LE8cUDQL2qd35NGV7)

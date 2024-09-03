@@ -1,7 +1,7 @@
 +++
 title = 'Will an instrument rating make me safer?'
 date = 2024-08-31T23:09:09-04:00
-draft = true
+draft = false
 +++
 
 I had a conversation with a friend from my previous job, recently certified as a

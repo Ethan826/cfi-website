@@ -32,7 +32,7 @@ community atmosphere where aviation enthusiasts can thrive.
   Cherokee 6).
 
 For more information or to schedule a session, please contact me at
-[contact@raleighflightinstructor.com](mailto:contact@raleighflightinstructor.com).
+<contact@raleighflightinstructor.com>.
 
 # Become a Part of Our Community
 
@@ -44,14 +44,15 @@ you’ll find a supportive and engaging community with us.
 
 # Our other great CFIs
 
-I would love to fly with you if our schedules match and I'm a good fit for your
-needs, but you can't go wrong with any of the great instructors at the club:
+I would love to fly with you if our schedules match and I’m a good fit for your
+needs, but you can’t go wrong with any of the great instructors at the club:
 
-- [Zack Azzarito](https://www.linkedin.com/in/zachary-azzarito-atp-0a7870252/), our Chief.
-- [Gavin Burns](mailto:gavinburns240@gmail.com), CFII, full-time, qualified in all basic
-  membership airplanes.
-- [Larry Horton](https://www.linkedin.com/in/lhorton/), CFII, part-time, qualified in
-  all club airplanes.
+- [Zack Azzarito](https://www.linkedin.com/in/zachary-azzarito-atp-0a7870252/),
+  our Chief.
+- [Gavin Burns](mailto:gavinburns240@gmail.com), CFII, full-time, qualified in
+  all basic membership airplanes.
+- [Larry Horton](https://www.linkedin.com/in/lhorton/), CFII, part-time,
+  qualified in all club airplanes.
 - [Matt Boettcher](mailto:boettcher.matt102@gmail.com), CFI, full-time,
   qualified in all basic membership airplanes.
 - [Philip Geiger](https://www.linkedin.com/in/philipgeigercfp/), CFII,
@@ -61,35 +62,35 @@ needs, but you can't go wrong with any of the great instructors at the club:
 
 # An in-the-weeds note on rates
 
-It can be a bit tricky to comparison shop. Raleigh Flying Club charges a "dry"
-rate for airplanes, meaning the cost for fuel isn't included.
+It can be a bit tricky to comparison shop. Raleigh Flying Club charges a “dry”
+rate for airplanes, meaning the cost for fuel isn’t included.
 
-At the time of writing, the club's [Cherokee
+At the time of writing, the club’s [Cherokee
 180](https://brittle.com/raleighflyingclub/piper-cherokee180-9390j/) costs
-$95&nbsp;/&nbsp;hr dry. Fuel prices at Raleigh fluctuate, but during a recent
-flight as of the time of writing, I observed that the cost per hour of fuel at
-Raleigh in the Cherokee 180 worked out to about $65&nbsp;/&nbsp;hr, yielding
-about $160&nbsp;/&nbsp;hr for the airplane rental and fuel.
+\$95 / hr dry. Fuel prices at Raleigh fluctuate, but during a recent flight as
+of the time of writing, I observed that the cost per hour of fuel at Raleigh in
+the Cherokee 180 worked out to about \$65 / hr, yielding about \$160 / hr for
+the airplane rental and fuel.
 
 The standard club [dues](https://www.raleighflyingclub.org/fleetandrates/) at
-the time of writing are $125&nbsp;/&nbsp;month. If you fly 10 hours per month (a
-reasonable amount while earning your private pilot's certificate), you'll need
-to bake in $12.50&nbsp;/&nbsp;hr to the rental rate, making the hourly rate
-about $175&nbsp;/&nbsp;hr all in (but not counting instructor rates,
-$70&nbsp;/&nbsp;hr or $60&nbsp;/&nbsp;hr in bulk).
+the time of writing are \$125 / month. If you fly 10 hours per month (a
+reasonable amount while earning your private pilot’s certificate), you’ll need
+to bake in \$12.50 / hr to the rental rate, making the hourly rate about
+\$175 / hr all in (but not counting instructor rates, \$70 / hr or \$60 / hr in
+bulk).
 
-A similar airplane at a nearby flight school costs $200&nbsp;/&nbsp;hr. To rent
-that plane solo, you must carry renter's insurance at about
-$500–700&nbsp;/&nbsp;yr (insurance is included in the club dues at Raleigh
-Flying Club). The rate for instructors at that school is $65&nbsp;/&nbsp;hr.
+A similar airplane at a nearby flight school costs \$200 / hr. To rent that
+plane solo, you must carry renter’s insurance at about \$500–700 / yr (insurance
+is included in the club dues at Raleigh Flying Club). The rate for instructors
+at that school is \$65 / hr.
 
-Summarizing, I think it's fair to say the following:
+Summarizing, I think it’s fair to say the following:
 
 - The rates at Raleigh Flying Club can save you about 20% on the hourly rate to
   rent the airplane, _including fuel_.
-- Taking into account club dues, instructor rates, and renter's insurance, you
+- Taking into account club dues, instructor rates, and renter’s insurance, you
   can probably save about 15% by flying at Raleigh Flying Club, though many
   factors affect that figure.
-- The comparison isn't quite apples-to-apples: being a member of the flying club
+- The comparison isn’t quite apples-to-apples: being a member of the flying club
   gives you more privileges in terms of using airplanes and membership in a
   community of fellow Triangle pilots.
