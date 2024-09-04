@@ -14,16 +14,22 @@ I am proud to provide the following training and services:
 - **Private Pilot:** While earning your “private ticket,” you’ll
   cover aerodynamics, navigation, weather, regulations, decision-making, and the
   procedures and maneuvers you’ll need to fly alone or with passengers in good
-  weather. You’ll learn through ground and flight instruction to ensure you’re
-  ready for your checkride and, more importantly, ready to be a safe and
-  responsible pilot, able to make responsible decisions and keep learning.
+  weather. You'll receive ground and flight instruction to prepare you for your
+  checkride and, more importantly, to be a safe and responsible pilot, able to
+  make sound decisions and keep learning.
 - **Instrument Rating:** Earning your instrument allows you to fly in a wider
   range of weather conditions, enhances your ability to navigate, and lets you
   take fuller advantage of the services available to pilots in the National
   Airspace System. This rating also increases your responsibilities and exposure
   to more complex flying environments. Consequently, we will strongly emphasize
-  Aeronautical Decision Making (ADM) and setting personal minimums to ensure
-  safety and proficiency in instrument meteorological conditions (IMC).
+  Aeronautical Decision Making and setting personal minimums to ensure safety
+  and proficiency in instrument meteorological conditions.
+- **Rusty Pilots:** I returned to flying after a significant break, so I
+  understand the challenges and fears of getting back into the air. I offer
+  tailored sessions to help you regain confidence and proficiency in the
+  cockpit. And with experience going back over 25 years, I can help you
+  understand what’s changed and how it affects you—from the widespread use of
+  tablets and advanced avionics to updated procedures and phraseology.
 - **CFII (Certified Flight Instructor–Instrument):** This advanced certification
   allows you to teach instrument flying, building on your foundational skills to
   teach instrument flying to certificated pilots. It particularly emphasizes
@@ -31,12 +37,6 @@ I am proud to provide the following training and services:
   the National Airspace System safe aeronautical decision-making under
   instrument flight rules, ensuring they understand the complexities and
   responsibilities of flying in varying weather conditions.
-- **Rusty Pilots:** I returned to flying after a significant break, so I
-  understand the challenges and fears of getting back into the air. I offer
-  tailored sessions to help you regain confidence and proficiency in the
-  cockpit. And with experience going back over 25 years, I can help you
-  understand what’s changed and how it affects you—from the widespread use of
-  tablets and advanced avionics to updated procedures and phraseology.
 
 One service I can't provide is flying you somewhere in the club's airplanes.
 That's considered a charter service—a web search for [RDU charter
