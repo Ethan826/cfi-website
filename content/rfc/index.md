@@ -1,6 +1,7 @@
 ---
 title: Raleigh Flying Club
-menus: main
+# menus: main
+draft: true
 ---
 
 [Raleigh Flying Club](https://www.raleighflyingclub.org/), where I instruct, is
