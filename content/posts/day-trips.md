@@ -17,6 +17,12 @@ day to fly.
 
 # 1. Asheville and Biltmore
 
+**EDIT October, 2024**: Hurricane Helene has damaged huge swaths of western
+North Carolina. Until the relief efforts finish and the tourist infrastructure
+comes back online, hold off on leisure travel to Asheville. Once things are back
+on track, supporting our wester neighbors with our tourist dollars will be a
+great idea!
+
 Asheville Regional ([AVL](https://airnav.com/airport/KAVL)) is an approximately
 [20-minute car ride](https://maps.app.goo.gl/5xcqJsWhfdfKeoa29) from downtown
 Asheville, and getting an Uber or Lyft should be straightforward. While in
