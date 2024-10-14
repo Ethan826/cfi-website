@@ -60,7 +60,7 @@ make you safer. And it _will_ make you safer—but only if you make good
 decisions. Stated simply, an instrument-rated pilot has many more opportunities
 to make bad decisions and must work with many additional shades of gray. So yes,
 of course, go get your instrument rating! ([Give me a
-buzz](mailto:contact@raleighflightinstructor.com) if you're local!) But you
+buzz](mailto:ethan@raleighflightinstructor.com) if you're local!) But you
 must—_must_—take the decision-making and risk-management aspects seriously. It's
 not boilerplate or box-checking. It truly is the decisive factor in answering
 _yes_ to our framing question.

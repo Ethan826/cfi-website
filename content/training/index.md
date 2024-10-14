@@ -43,7 +43,7 @@ flights](https://www.google.com/search?q=rdu+charter+flights) may be your best
 bet.
 
 For more information or to schedule a lesson, feel free to contact me at
-<contact@raleighflightinstructor.com>.
+<ethan@raleighflightinstructor.com>.
 
 <!-- - **Commercial Pilot:** To prepare you for a professional flying
   career, this training sharpens your flying skills to a higher standard of

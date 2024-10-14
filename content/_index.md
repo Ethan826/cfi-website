@@ -10,4 +10,4 @@ Aeronautical University, with over 1,000 hours of instruction given. I am
 passionate about making flying both fun and safe.
 
 For more information or to schedule a lesson, contact me at
-<contact@raleighflightinstructor.com>.
+<ethan@raleighflightinstructor.com>.

@@ -34,7 +34,7 @@ community atmosphere where aviation enthusiasts can thrive.
 
 Information about joining the club is
 [here](https://www.raleighflyingclub.org/contact/). You can reach me at
-<contact@raleighflightinstructor.com>.
+<ethan@raleighflightinstructor.com>.
 
 # Our other great CFIs
 
