@@ -31,12 +31,11 @@ I am proud to provide the following training and services:
   understand what’s changed and how it affects you—from the widespread use of
   tablets and advanced avionics to updated procedures and phraseology.
 - **CFII (Certified Flight Instructor–Instrument):** This advanced certification
-  allows you to teach instrument flying, building on your foundational skills to
-  teach instrument flying to certificated pilots. It particularly emphasizes
-  developing your ability to instruct students on understanding the *why*s of
-  the National Airspace System safe aeronautical decision-making under
-  instrument flight rules, ensuring they understand the complexities and
-  responsibilities of flying in varying weather conditions.
+  allows you to teach instrument flying. You will build on your foundational
+  instructing skills, focusing especially on understanding the
+  *why*s of the National Airspace System safe aeronautical decision-making under
+  instrument flight rules, ensuring your students understand the complexities
+  and responsibilities of flying in more challenging conditions.
 
 One service I can't provide is flying you somewhere in the club's airplanes.
 That's considered a charter service—a web search for [RDU charter
