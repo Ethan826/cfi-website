@@ -17,9 +17,9 @@ I am proud to provide the following training and services:
   weather. You'll receive ground and flight instruction to prepare you for your
   checkride and, more importantly, to be a safe and responsible pilot, able to
   make sound decisions and keep learning.
-- **Instrument Rating:** Earning your instrument allows you to fly in a wider
-  range of weather conditions, enhances your ability to navigate, and lets you
-  take fuller advantage of the services available to pilots in the National
+- **Instrument Rating:** Earning your instrument rating allows you to fly in a
+  wider range of weather conditions, enhances your ability to navigate, and lets
+  you take fuller advantage of the services available to pilots in the National
   Airspace System. This rating also increases your responsibilities and exposure
   to more complex flying environments. Consequently, we will strongly emphasize
   Aeronautical Decision Making and setting personal minimums to ensure safety
