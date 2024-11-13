@@ -32,20 +32,19 @@ started.
 
 Imagine the instructor explains, "When we do S-Turns Across a Road, we maintain
 the same altitude throughout. This is different from Eights on Pylons, where we
-adjust our altitude to keep the pylon at a constant position relative to the
-airplane's wing—a concept known as pivotal altitude. Since S-Turns are about
-maintaining a consistent semicircular ground track across a straight line like a
-road, we don’t have those altitude changes."
+adjust our pivotal altitude. Since S-Turns are about maintaining a consistent
+semicircular ground track across a straight line like a road, we don’t have
+those altitude changes."
 
 This explanation could backfire if a student isn’t yet familiar with Eights on
-Pylons—typically a commercial pilot maneuver—this explanation could backfire.
-The student might worry that understanding S-Turns requires grasping the more
-complex concept of pivotal altitude, or they might confuse the purpose and
-technique of the two maneuvers. They could end up thinking, "Are S-Turns just a
-simpler form of Eights on Pylons? Do I need to learn about pivotal altitude
-now?" This underscores the importance of aligning instructional examples with
-the student’s current knowledge level and not prematurely introducing concepts
-that could lead to confusion.
+Pylons—typically a commercial pilot maneuver. The student might worry that
+understanding S-Turns requires grasping the more complex concept of pivotal
+altitude, or they might confuse the purpose and technique of the two maneuvers.
+They could end up thinking, "Are S-Turns just a simpler form of Eights on
+Pylons? Do I need to learn about pivotal altitude now?" This underscores the
+importance of aligning instructional examples with the student’s current
+knowledge level and not prematurely introducing concepts that could lead to
+confusion.
 
 When people lack that kind of common ground, it can be hard to recognize that
 the best first step may be to use empathetic imagination. Here I don't mean
