@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ethan Kent, Gold Seal CFI, CFII, MEI</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Ethan Kent, Gold Seal CFI, CFII, MEI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Nov 2024 11:17:23 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Empathetic Imagination</title>
-      <link>//localhost:1313/posts/empathetic-imagination/</link>
+      <link>http://localhost:1313/posts/empathetic-imagination/</link>
       <pubDate>Sat, 09 Nov 2024 11:17:23 -0500</pubDate>
-      <guid>//localhost:1313/posts/empathetic-imagination/</guid>
+      <guid>http://localhost:1313/posts/empathetic-imagination/</guid>
       <description>I&amp;rsquo;ve been thinking about &amp;ldquo;empathetic imagination&amp;rdquo; as an important concept in teaching and learning. The Aviation Instructor&amp;rsquo;s Handbook talks about this:&#xA;Lack of common experience between the communicator (instructor) and the receiver (learner) is probably the greatest single barrier to effective communication. Communication can be effective only to the extent that the experiences (physical, mental, and emotional) of the participants are similar.&#xA;In my day job, I work with a programming language called Haskell that has a ton of mathematical and theoretical computer science concepts—much more so than most programming languages.</description>
     </item>
     <item>
       <title>Day Trips</title>
-      <link>//localhost:1313/posts/day-trips/</link>
+      <link>http://localhost:1313/posts/day-trips/</link>
       <pubDate>Wed, 04 Sep 2024 12:30:22 +0000</pubDate>
-      <guid>//localhost:1313/posts/day-trips/</guid>
+      <guid>http://localhost:1313/posts/day-trips/</guid>
       <description>If you&amp;rsquo;re considering learning to fly and live in the Triangle, you might wonder what you can do once you have your certificate. Renting a airplane for the whole day or a few days is a significant advantage of flying clubs compared to flight schools, which usually have stricter limits on how long you can take an airplane.&#xA;As a new pilot flying in small planes, you must be flexible and have backup plans if the weather won&amp;rsquo;t cooperate.</description>
     </item>
     <item>
       <title>Will an instrument rating make me safer?</title>
-      <link>//localhost:1313/posts/safer-with-instrument/</link>
+      <link>http://localhost:1313/posts/safer-with-instrument/</link>
       <pubDate>Sat, 31 Aug 2024 23:09:09 -0400</pubDate>
-      <guid>//localhost:1313/posts/safer-with-instrument/</guid>
+      <guid>http://localhost:1313/posts/safer-with-instrument/</guid>
       <description>I had a conversation with a friend from my previous job, recently certified as a private pilot. The friend is contemplating an instrument rating. I don&amp;rsquo;t remember if we explicitly framed the question, &amp;ldquo;Will an instrument rating make me safer,&amp;rdquo; but that was definitely part of our discussion.&#xA;The obvious answer is, &amp;ldquo;Yes, of course!&amp;rdquo; The disappointing trend continues of non-instrument-rated pilots coming to grief by flying under Visual Flight Rules (VFR) into Instrument Meteorological Conditions (IMC).</description>
     </item>
   </channel>

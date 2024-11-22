@@ -20,7 +20,7 @@ Confidence: Learning to fly at a busy, tower-controlled airport like RDU can be 
     
 
     
-<link rel="stylesheet" href="//localhost:1313/ananke/css/main.min.css" >
+<link rel="stylesheet" href="http://localhost:1313/ananke/css/main.min.css" >
 
 
 
@@ -34,10 +34,10 @@ Confidence: Learning to fly at a busy, tower-controlled airport like RDU can be 
     
 
     
-      <link rel="canonical" href="//localhost:1313/rdu/">
+      <link rel="canonical" href="http://localhost:1313/rdu/">
     
 
-    <meta property="og:url" content="//localhost:1313/rdu/">
+    <meta property="og:url" content="http://localhost:1313/rdu/">
   <meta property="og:site_name" content="Ethan Kent, Gold Seal CFI, CFII, MEI">
   <meta property="og:title" content="RDU Airport">
   <meta property="og:description" content="Raleigh Flying Club, where I instruct, is located at Raleigh-Durham International Airport.
@@ -52,7 +52,7 @@ Confidence: Learning to fly at a busy, tower-controlled airport like RDU can be 
 Why RDU? Here are some advantages to training at RDU:
 Location: The club’s central location is convenient to Apex, Cary, Raleigh, Durham, Chapel Hill, and other communities in the Triangle.
 Confidence: Learning to fly at a busy, tower-controlled airport like RDU can be a significant confidence booster. While less busy fields offer efficiency, training in a bustling environment equips you with the skills to handle complex airspace.">
-  <meta itemprop="wordCount" content="155">
+  <meta itemprop="wordCount" content="156">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="RDU Airport">
   <meta name="twitter:description" content="Raleigh Flying Club, where I instruct, is located at Raleigh-Durham International Airport.
@@ -71,7 +71,7 @@ Confidence: Learning to fly at a busy, tower-controlled airport like RDU can be 
     <div class="bg-black">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
-    <a href="//localhost:1313/" class="f3 fw2 hover-white no-underline white-90 dib">
+    <a href="http://localhost:1313/" class="f3 fw2 hover-white no-underline white-90 dib">
       
         Ethan Kent, Gold Seal CFI, CFII, MEI
       
@@ -83,25 +83,25 @@ Confidence: Learning to fly at a busy, tower-controlled airport like RDU can be 
         <ul class="pl0 mr3">
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="//localhost:1313/about/" title="About Me page">
+            <a class="hover-white no-underline white-90" href="http://localhost:1313/about/" title="About Me page">
               About Me
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="//localhost:1313/posts/" title="Posts page">
+            <a class="hover-white no-underline white-90" href="http://localhost:1313/posts/" title="Posts page">
               Posts
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="//localhost:1313/rdu/" title="RDU Airport page">
+            <a class="hover-white no-underline white-90" href="http://localhost:1313/rdu/" title="RDU Airport page">
               RDU Airport
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="//localhost:1313/training/" title="Training page">
+            <a class="hover-white no-underline white-90" href="http://localhost:1313/training/" title="Training page">
               Training
             </a>
           </li>
@@ -158,12 +158,60 @@ your skills on different maneuvers, offering the best of both worlds.</p>
 <h1 id="resources">Resources</h1>
 <ul>
 <li><a href="https://aviationweather.gov/data/metar/?id=KRDU&amp;hours=0&amp;decoded=yes&amp;include_taf=yes">Weather</a></li>
-<li><a href="https://aeronav.faa.gov/d-tpp/2408/00516ad.pdf#nameddest=(RDU)">Airport
-diagram</a></li>
-<li><a href="https://skyvector.com/?ll=35.877638889,-78.787472222&amp;chart=301&amp;zoom=1">Sectional
-Chart</a></li>
+<li><a id="airport-diagram" href="#">Loading Airport Diagram&hellip;</a></li>
+<li><a href="https://skyvector.com/?ll=35.877638889,-78.787472222&amp;chart=301&amp;zoom=1">Sectional Chart</a></li>
 <li><a href="https://maps.app.goo.gl/LE8cUDQL2qd35NGV7">Directions</a></li>
 </ul>
+<script>
+  "use strict";
+
+  const AIRAC_CONFIG = {
+    FIRST_DAY: new Date("2016-01-07").getTime(),
+    CYCLE_LENGTH_MS: 28 * 24 * 60 * 60 * 1000, // 28 days in milliseconds
+    TOTAL_CYCLES: 326,
+  };
+
+  const generateAiracUrl = (airacCycle, airportCode = "RDU") =>
+    `https://aeronav.faa.gov/d-tpp/${airacCycle}/00516ad.pdf#nameddest=(${airportCode})`;
+
+  const computeAiracCycles = (totalCycles = AIRAC_CONFIG.TOTAL_CYCLES, dateConstructor = Date) => {
+    const airacMap = new Map();
+    for (let i = 0; i < totalCycles; i++) {
+      const cycleStartDate = new dateConstructor(AIRAC_CONFIG.FIRST_DAY + AIRAC_CONFIG.CYCLE_LENGTH_MS * i);
+      const year = cycleStartDate.getFullYear();
+      if (!airacMap.has(year)) {
+        airacMap.set(year, []);
+      }
+      airacMap.get(year).push(cycleStartDate);
+    }
+    return airacMap;
+  };
+
+  const cachedAiracCycles = computeAiracCycles();
+
+  const getCurrentAiracCycle = (currentDate = new Date()) => {
+    const year = currentDate.getFullYear();
+    const yearCycles = cachedAiracCycles.get(year);
+
+    if (!yearCycles) {
+      throw new Error(`AIRAC cycle computation failed. No data for year ${year}. Update the range or check input.`);
+    }
+
+    const cycleNumber = yearCycles.filter(cycleStartDate => cycleStartDate.getTime() <= currentDate.getTime()).length;
+
+    return `${year.toString().slice(2)}${cycleNumber.toString().padStart(2, "0")}`;
+  };
+
+  try {
+    const currentAiracCycle = getCurrentAiracCycle();
+    const airacUrl = generateAiracUrl(currentAiracCycle, "RDU");
+    const diagramLink = document.getElementById("airport-diagram");
+    diagramLink.textContent = "Airport diagram";
+    diagramLink.setAttribute("href", airacUrl);
+  } catch (error) {
+    console.error("Error generating AIRAC URL:", error);
+  }
+</script>
 
       </div>
     </article>
@@ -172,7 +220,7 @@ Chart</a></li>
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="//localhost:1313/" >
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
     &copy;  Ethan Kent, Gold Seal CFI, CFII, MEI 2024 
   </a>
     <div>

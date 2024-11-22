@@ -6,3 +6,6 @@ sectionPagesMenu = 'main'
 enableRobotsTxt = true
 relativeURLs = false
 canonifyURLs = true
+
+[markup.goldmark.renderer]
+unsafe = true

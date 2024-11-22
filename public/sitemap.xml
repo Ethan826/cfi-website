@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/empathetic-imagination/</loc>
+    <loc>http://localhost:1313/posts/empathetic-imagination/</loc>
     <lastmod>2024-11-09T11:17:23-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-09T11:17:23-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-11-09T11:17:23-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/day-trips/</loc>
+    <loc>http://localhost:1313/posts/day-trips/</loc>
     <lastmod>2024-09-04T12:30:22+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/safer-with-instrument/</loc>
+    <loc>http://localhost:1313/posts/safer-with-instrument/</loc>
     <lastmod>2024-08-31T23:09:09-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/rdu/</loc>
+    <loc>http://localhost:1313/rdu/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/training/</loc>
+    <loc>http://localhost:1313/training/</loc>
   </url>
 </urlset>
